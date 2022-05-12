@@ -1,0 +1,69 @@
+﻿  stdafx.cpp
+  Arrow.cpp
+  BmpMgr.cpp
+  Bomb.cpp
+  BombMonster.cpp
+  CollisionMgr.cpp
+CollisionMgr.cpp(82): warning C4244: '인수': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+CollisionMgr.cpp(131): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+CollisionMgr.cpp(132): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+CollisionMgr.cpp(138): warning C4554: '>>': 연산자 우선 순위에 오류가 있는지 확인하십시오. 괄호를 사용하여 우선 순위를 명확하게 지정하십시오.
+CollisionMgr.cpp(139): warning C4554: '>>': 연산자 우선 순위에 오류가 있는지 확인하십시오. 괄호를 사용하여 우선 순위를 명확하게 지정하십시오.
+  ControlType.cpp
+  DeathMenu.cpp
+  JumpingMonster.cpp
+JumpingMonster.cpp(205): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  KeyMgr.cpp
+  Leaf.cpp
+  Line.cpp
+  LineMgr.cpp
+LineMgr.cpp(57): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+LineMgr.cpp(58): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+LineMgr.cpp(62): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+LineMgr.cpp(63): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+LineMgr.cpp(88): warning C4838: 'const float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+LineMgr.cpp(88): warning C4244: '초기화 중': 'const float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+LineMgr.cpp(88): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+LineMgr.cpp(88): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Logo.cpp
+  MainGame.cpp
+  MapTool.cpp
+  Momodora_RUTM.cpp
+  MonkeyMonster.cpp
+  MyBitmap.cpp
+  MyButton.cpp
+  MyMenu.cpp
+  컴파일하고 있습니다...
+  MyRect.cpp
+  Obj.cpp
+  ObjMgr.cpp
+  Player.cpp
+Player.cpp(173): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Player.cpp(184): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Player.cpp(419): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Player.cpp(482): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Player.cpp(878): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  RectMgr.cpp
+RectMgr.cpp(275): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Scene.cpp
+  SceneMgr.cpp
+  ScrollMgr.cpp
+  ShieldMonster.cpp
+  Stage.cpp
+  Start.cpp
+  Sword.cpp
+  Tile.cpp
+  TileMgr.cpp
+TileMgr.cpp(413): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+TileMgr.cpp(417): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+TileMgr.cpp(433): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+TileMgr.cpp(437): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+TileMgr.cpp(441): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+TileMgr.cpp(445): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다.
+  256 of 964 functions (26.6%) were compiled, the rest were copied from previous compilation.
+    15 functions were new in current compilation
+    79 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  Momodora_RUTM.vcxproj -> C:\Users\윤성주\Desktop\모모도라\Momodora_RUTM\Release\Momodora_RUTM.exe
+  Momodora_RUTM.vcxproj -> C:\Users\윤성주\Desktop\모모도라\Momodora_RUTM\Release\Momodora_RUTM.pdb (Full PDB)

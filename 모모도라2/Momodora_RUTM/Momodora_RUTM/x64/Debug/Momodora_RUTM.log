@@ -1,0 +1,99 @@
+﻿  stdafx.cpp
+  TileMgr.cpp
+c:\users\윤성주\desktop\0602씬전환\momodora_rutm\momodora_rutm\tilemgr.cpp(441): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\윤성주\desktop\0602씬전환\momodora_rutm\momodora_rutm\tilemgr.cpp(445): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\윤성주\desktop\0602씬전환\momodora_rutm\momodora_rutm\tilemgr.cpp(461): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\윤성주\desktop\0602씬전환\momodora_rutm\momodora_rutm\tilemgr.cpp(465): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\윤성주\desktop\0602씬전환\momodora_rutm\momodora_rutm\tilemgr.cpp(469): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\윤성주\desktop\0602씬전환\momodora_rutm\momodora_rutm\tilemgr.cpp(475): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Tile.cpp
+  Sword.cpp
+  Start.cpp
+  Stage.cpp
+  SoundMgr.cpp
+c:\users\윤성주\desktop\0602씬전환\momodora_rutm\momodora_rutm\soundmgr.cpp(92): warning C4244: '초기화 중': 'intptr_t'에서 'long'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\윤성주\desktop\0602씬전환\momodora_rutm\momodora_rutm\soundmgr.cpp(112): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ShieldMonster.cpp
+  ScrollMgr.cpp
+  SceneMgr.cpp
+  Scene.cpp
+  SavePoint.cpp
+  RectMgr.cpp
+c:\users\윤성주\desktop\0602씬전환\momodora_rutm\momodora_rutm\myrect.h(28): warning C4244: '-=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\윤성주\desktop\0602씬전환\momodora_rutm\momodora_rutm\rectmgr.cpp(276): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Player.cpp
+c:\users\윤성주\desktop\0602씬전환\momodora_rutm\momodora_rutm\player.cpp(173): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\윤성주\desktop\0602씬전환\momodora_rutm\momodora_rutm\player.cpp(202): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\윤성주\desktop\0602씬전환\momodora_rutm\momodora_rutm\player.cpp(216): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\윤성주\desktop\0602씬전환\momodora_rutm\momodora_rutm\player.cpp(455): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\윤성주\desktop\0602씬전환\momodora_rutm\momodora_rutm\player.cpp(519): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\윤성주\desktop\0602씬전환\momodora_rutm\momodora_rutm\player.cpp(918): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ObjMgr.cpp
+  Obj.cpp
+  MyRect.cpp
+c:\users\윤성주\desktop\0602씬전환\momodora_rutm\momodora_rutm\myrect.h(28): warning C4244: '-=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  MyMenu.cpp
+  MyButton.cpp
+  MyBitmap.cpp
+  MonkeyMonster.cpp
+  코드를 생성하고 있습니다...
+c:\users\윤성주\desktop\0602씬전환\momodora_rutm\momodora_rutm\tilemgr.cpp(156): warning C4715: 'CTileMgr::Get_Orb': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  컴파일하고 있습니다...
+  Momodora_RUTM.cpp
+  MapTool.cpp
+c:\users\윤성주\desktop\0602씬전환\momodora_rutm\momodora_rutm\maptool.cpp(150): warning C4477: 'swprintf_s' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'std::size_t'입니다.
+  c:\users\윤성주\desktop\0602씬전환\momodora_rutm\momodora_rutm\maptool.cpp(150): note: 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+c:\users\윤성주\desktop\0602씬전환\momodora_rutm\momodora_rutm\maptool.cpp(154): warning C4477: 'swprintf_s' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'std::size_t'입니다.
+  c:\users\윤성주\desktop\0602씬전환\momodora_rutm\momodora_rutm\maptool.cpp(154): note: 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+c:\users\윤성주\desktop\0602씬전환\momodora_rutm\momodora_rutm\maptool.cpp(158): warning C4477: 'swprintf_s' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'std::size_t'입니다.
+  c:\users\윤성주\desktop\0602씬전환\momodora_rutm\momodora_rutm\maptool.cpp(158): note: 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  MainGame.cpp
+c:\users\윤성주\desktop\0602씬전환\momodora_rutm\momodora_rutm\maingame.cpp(64): warning C4477: 'swprintf_s' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'std::size_t'입니다.
+  c:\users\윤성주\desktop\0602씬전환\momodora_rutm\momodora_rutm\maingame.cpp(64): note: 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+c:\users\윤성주\desktop\0602씬전환\momodora_rutm\momodora_rutm\maingame.cpp(66): warning C4477: 'swprintf_s' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'std::size_t'입니다.
+  c:\users\윤성주\desktop\0602씬전환\momodora_rutm\momodora_rutm\maingame.cpp(66): note: 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  Logo.cpp
+  LineMgr.cpp
+c:\users\윤성주\desktop\0602씬전환\momodora_rutm\momodora_rutm\linemgr.cpp(58): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\윤성주\desktop\0602씬전환\momodora_rutm\momodora_rutm\linemgr.cpp(59): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\윤성주\desktop\0602씬전환\momodora_rutm\momodora_rutm\linemgr.cpp(63): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\윤성주\desktop\0602씬전환\momodora_rutm\momodora_rutm\linemgr.cpp(64): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\윤성주\desktop\0602씬전환\momodora_rutm\momodora_rutm\linemgr.cpp(89): warning C4838: 'const float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\윤성주\desktop\0602씬전환\momodora_rutm\momodora_rutm\linemgr.cpp(89): warning C4244: '초기화 중': 'const float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\윤성주\desktop\0602씬전환\momodora_rutm\momodora_rutm\linemgr.cpp(89): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\윤성주\desktop\0602씬전환\momodora_rutm\momodora_rutm\linemgr.cpp(89): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Line.cpp
+  Leaf.cpp
+  KeyMgr.cpp
+  JumpingMonster.cpp
+c:\users\윤성주\desktop\0602씬전환\momodora_rutm\momodora_rutm\jumpingmonster.cpp(209): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Item.cpp
+  DeathMenu.cpp
+  ControlType.cpp
+  CollisionMgr.cpp
+c:\users\윤성주\desktop\0602씬전환\momodora_rutm\momodora_rutm\myrect.h(28): warning C4244: '-=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\윤성주\desktop\0602씬전환\momodora_rutm\momodora_rutm\collisionmgr.cpp(117): warning C4244: '인수': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\윤성주\desktop\0602씬전환\momodora_rutm\momodora_rutm\collisionmgr.cpp(166): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\윤성주\desktop\0602씬전환\momodora_rutm\momodora_rutm\collisionmgr.cpp(167): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\윤성주\desktop\0602씬전환\momodora_rutm\momodora_rutm\collisionmgr.cpp(173): warning C4554: '>>': 연산자 우선 순위에 오류가 있는지 확인하십시오. 괄호를 사용하여 우선 순위를 명확하게 지정하십시오.
+c:\users\윤성주\desktop\0602씬전환\momodora_rutm\momodora_rutm\collisionmgr.cpp(174): warning C4554: '>>': 연산자 우선 순위에 오류가 있는지 확인하십시오. 괄호를 사용하여 우선 순위를 명확하게 지정하십시오.
+  Chest.cpp
+  BombMonster.cpp
+  Bomb.cpp
+  BmpMgr.cpp
+  BigPlant.cpp
+  Arrow.cpp
+  코드를 생성하고 있습니다...
+SoundMgr.obj : error LNK2019: FMOD_System_Create 외부 기호(참조 위치: "public: void __cdecl CSoundMgr::Initialize(void)" (?Initialize@CSoundMgr@@QEAAXXZ) 함수)에서 확인하지 못했습니다.
+SoundMgr.obj : error LNK2019: FMOD_System_Release 외부 기호(참조 위치: "public: void __cdecl CSoundMgr::Release(void)" (?Release@CSoundMgr@@QEAAXXZ) 함수)에서 확인하지 못했습니다.
+SoundMgr.obj : error LNK2019: FMOD_System_Init 외부 기호(참조 위치: "public: void __cdecl CSoundMgr::Initialize(void)" (?Initialize@CSoundMgr@@QEAAXXZ) 함수)에서 확인하지 못했습니다.
+SoundMgr.obj : error LNK2019: FMOD_System_Close 외부 기호(참조 위치: "public: void __cdecl CSoundMgr::Release(void)" (?Release@CSoundMgr@@QEAAXXZ) 함수)에서 확인하지 못했습니다.
+SoundMgr.obj : error LNK2019: FMOD_System_Update 외부 기호(참조 위치: "private: void __cdecl CSoundMgr::LoadSoundFile(void)" (?LoadSoundFile@CSoundMgr@@AEAAXXZ) 함수)에서 확인하지 못했습니다.
+SoundMgr.obj : error LNK2019: FMOD_System_CreateSound 외부 기호(참조 위치: "private: void __cdecl CSoundMgr::LoadSoundFile(void)" (?LoadSoundFile@CSoundMgr@@AEAAXXZ) 함수)에서 확인하지 못했습니다.
+SoundMgr.obj : error LNK2019: FMOD_System_PlaySound 외부 기호(참조 위치: "public: void __cdecl CSoundMgr::PlayBGM(wchar_t *)" (?PlayBGM@CSoundMgr@@QEAAXPEA_W@Z) 함수)에서 확인하지 못했습니다.
+SoundMgr.obj : error LNK2019: FMOD_Sound_Release 외부 기호(참조 위치: "public: void __cdecl CSoundMgr::Release(void)" (?Release@CSoundMgr@@QEAAXXZ) 함수)에서 확인하지 못했습니다.
+SoundMgr.obj : error LNK2019: FMOD_Channel_Stop 외부 기호(참조 위치: "public: void __cdecl CSoundMgr::StopAll(void)" (?StopAll@CSoundMgr@@QEAAXXZ) 함수)에서 확인하지 못했습니다.
+SoundMgr.obj : error LNK2019: FMOD_Channel_IsPlaying 외부 기호(참조 위치: "public: void __cdecl CSoundMgr::PlaySoundW(wchar_t *,enum CSoundMgr::CHANNELID)" (?PlaySoundW@CSoundMgr@@QEAAXPEA_WW4CHANNELID@1@@Z) 함수)에서 확인하지 못했습니다.
+SoundMgr.obj : error LNK2019: FMOD_Channel_SetMode 외부 기호(참조 위치: "public: void __cdecl CSoundMgr::PlayBGM(wchar_t *)" (?PlayBGM@CSoundMgr@@QEAAXPEA_W@Z) 함수)에서 확인하지 못했습니다.
+fmodex_vc.lib : warning LNK4272: 'X86' 라이브러리 컴퓨터 종류가 'x64' 대상 컴퓨터 종류와 충돌합니다.
+C:\Users\윤성주\Desktop\0602씬전환\Momodora_RUTM\x64\Debug\Momodora_RUTM.exe : fatal error LNK1120: 11개의 확인할 수 없는 외부 참조입니다.
